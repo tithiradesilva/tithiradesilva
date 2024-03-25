@@ -1,4 +1,3 @@
-![MasterHead](https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/0/2/a/02a4b92048705c6530bc0c6a48d2cf9fcb6a74d9.gif)
 <h1 align="center">Hi 👋, I'm Tithira De Silva</h1>
 <img align ="right" alt="coding" width="350" src ="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
