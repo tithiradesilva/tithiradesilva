@@ -3,9 +3,9 @@
 
 -    **🏫ㅤGrade 2 Undergraduage at University of Westminster 🇬🇧**
 -    **🖥️ㅤWeb Developing / UI Designing / Graphic Designing**
--    **🌱ㅤCurrently learning React / MongoDB**
+-    **🌱ㅤCurrently learning React / Flutter**
 
--    **🌐ㅤVisit my Personal Website [https://tithiradesilva.github.io/](https://tithiradesilva.github.io/)**
+-    **🌐ㅤVisit my Personal Website [https://tithiradesilva.com/](https://tithiradesilva.com/)**
 -    **📫ㅤContact me on tithiradesilva@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
